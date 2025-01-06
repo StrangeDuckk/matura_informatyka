@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std; int main()
+{
+    int w[100];
+    int n;    
+    cin >> n;
+    w[1]=true;
+    w[2]=false;
+    w[3]=true;
+    w[4]=true;
+    for(int i =5;i<=n;i++)
+    {
+        w[i]=!w[i-4]||!w[i-3]||!w[i-1];
+    }
+    if(w[n]==true)
+    {
+        cout<<"Tak";
+    }
+    else
+    {
+        cout<<"Nie";
+    }
+    return 0;
+}
