@@ -1,0 +1,51 @@
+6.1
+414
+Indeks	Imie	Nazwisko
+5008	Archangela	Nbacka
+.
+.
+.
+5595	Marsjan	Jbacki	
+
+6.2
+190
+Indeks	Imie	Nazwisko	
+5008	Archangela	Nbacka	
+.
+.
+.
+5576	Winicja	Bbacka	
+
+6.3
+Id	Tytul	PoliczOfKurs
+1	Myslenie komputacyjne	36
+2	ECDL Advanced	71
+3	ECDL Base	61
+4	Edytor	84
+5	Arkusz kalkulacyjny	82
+6	Baza danych	74
+7	Grafika menedżerska i prezentacyjna	48
+8	Technologie informacyjne - wstęp	75
+9	Algorytmy w praktyce	71
+10	Programowanie obiektowe - wstep	77
+11	Podstawy programowania -  Java	59
+12	Programowanie w jezyku Python	84
+13	Programowanie w jezyku C++	76
+14	Programowanie w VBO	87
+15	Jezyk SQL	33
+
+6.4
+Indeks	Nazwisko	Imie
+5006	Kbacka	Tedora
+.
+.
+.
+5593	Jbacka	Taleja
+
+6_5
+Indeks	Imie	Nazwisko	Osoba
+5003	Agrypin	Pbacki	
+.
+.
+.
+5588	Sexta	Abacka	
