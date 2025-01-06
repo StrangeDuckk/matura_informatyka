@@ -1,0 +1,28 @@
+5.1
+małopolskie	PL1203	strefa małopolska	MpBrzeszKosc	64,3
+
+5.2
+Województwo	MAX 2016	MAX 2017
+śląskie	943,6	1585,5
+kujawsko-pomorskie	765,2	1386,3
+dolnośląskie	676,1	555,7
+małopolskie	630,7	659,1
+łódzkie	614,7	941,4
+mazowieckie	552,7	399,3
+lubelskie	560,2	267,6
+pomorskie	418,0	488,0
+podlaskie	486,7	383,8
+świętokrzyskie	346,0	626,0
+wielkopolskie	440,4	750,0
+lubuskie	410,4	524,8
+podkarpackie	314,0	601,1
+opolskie	526,7	438,1
+zachodniopomorskie	286,5	451,4
+warmińsko-mazurskie	264,5	368,1
+
+5.3
+w arkuszu
+
+5.4
+najlepsze: pomorskie	11 bardzo dobry
+najgorsze: śląskie	32 bardzo zły
